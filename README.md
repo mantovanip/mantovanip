@@ -14,7 +14,7 @@
     <img align="center" alt="Paulo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
     <img align="center" alt="Paulo-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img align="center" alt="Paulo-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img align="center" alt="Paulo-Hack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hack/hack-original.svg" /></div>
+      </div>
 
 
 
