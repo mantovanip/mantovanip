@@ -1,7 +1,7 @@
 <h3> Hi there! I am Paulo, a Brazilian developer living in the south of Brazil. I am actually developer PHP - JS</h3>
 <br><br>
 <div align="center"> <a href="https://github.com/mantovanip"> </div> 
- <div align="center"> - 👋 Hi, I’m Paulo Mantovani - 📝 I’m interested to work and learn -</div>
+ <div align="center"> - 👋 Hi, I’m Paulo Mantovani -<br> 📝 I’m interested to work and learn -</div>
   <br><hr/>
   <div align="center">
     <a href="https://github.com/mantovanip"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mantovanip&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/> 
