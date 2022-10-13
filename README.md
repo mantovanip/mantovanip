@@ -17,7 +17,9 @@
       <img align="center" alt="Paulo-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
             <img align="center" alt="Paulo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
            <img align="center" alt="Paulo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      </div>
+            <img align="center" alt="Paulo-workbench" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/workbench/workbench-original.svg" />
+
+</div>
 
 
 
