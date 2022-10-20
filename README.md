@@ -4,7 +4,7 @@
  <div align="center"> - 👋 Hi, I’m Paulo Mantovani -<br> 📝 I’m interested to work and learn -</div>
   <br><hr/>
   <div align="center">
-    <a href="https://github.com/mantovanip"> <img height="180em" src="https://github-readme-stats.vercel.app/api? username=mantovanip&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/> 
+    <a href="https://github.com/mantovanip"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mantovanip&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/> 
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantovanip&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/> 
      <br>
      </div> 
