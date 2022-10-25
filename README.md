@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I'm+Paulo+Mantovani....;Nice+to+meet+you!+👋😄&center=true&size=30">
   </a>
 </h1>
-<h3> Hi there! I am Paulo, a Brazilian developer living in the south of Brazil. I am actually developer PHP - JS</h3>
+
 <br><br>
 <div align="center"> <a href="https://github.com/mantovanip"> </div> 
  <div align="center"> - 👋 Hi, I’m Paulo Mantovani -<br> 📝 I’m interested to work and learn -</div>
