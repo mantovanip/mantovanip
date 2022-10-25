@@ -8,7 +8,6 @@
 
 <br><br>
 <div align="center"> <a href="https://github.com/mantovanip"> </div> 
- <div align="center"> - 👋 Hi, I’m Paulo Mantovani -<br> 📝 I’m interested to work and learn -</div>
   <br><hr/>
   <div align="center">
     <a href="https://github.com/mantovanip"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mantovanip&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/> 
@@ -30,5 +29,8 @@
      <img align="center" alt="Paulo-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
      </div>
 
-
+<h2 align="center"> Social 📱 </h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/mantovanip/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
 
