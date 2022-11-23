@@ -20,7 +20,7 @@
       <img align="center" alt="Paulo-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
       <img align="center" alt="Paulo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/> 
       <img align="center" alt="Paulo-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
-      <img align="center" alt="Paulo-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      <img align="center" alt="Paulo-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>            <img align="center" alt="Paulo-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
       <img align="center" alt="Paulo-ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
        <img align="center" alt="Paulo-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
       <img align="center" alt="Paulo-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
