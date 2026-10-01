@@ -6,33 +6,55 @@
   </a>
 </h1>
 
-<div align="center"> <a href="https://github.com/mantovanip"> </div> 
-  <div align="center">
-    <a href="https://github.com/mantovanip"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mantovanip&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/> 
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantovanip&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/> 
-     <br>
-     </div> 
-    <div align="center" style="display: inline_block"> 
-    <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Paulo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Paulo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img align="center" alt="Paulo-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-      <img align="center" alt="Paulo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img align="center" alt="Paulo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/> 
-      <img align="center" alt="Paulo-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
-      <img align="center" alt="Paulo-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      <img align="center" alt="Paulo-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>    
-      <img align="center" alt="Paulo-ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
-       <img align="center" alt="Paulo-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-      <img align="center" alt="Paulo-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-      <img align="center" alt="Paulo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-      <img align="center" alt="Paulo-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-      <img align="center" alt="Paulo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>                           <img align="center" alt="Paulo-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-      <img align="center" alt="Paulo-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      <img align="center" alt="Paulo-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<h2 align="center"> 📱 </h2>
+<div align="center">
+  <a href="https://github.com/mantovanip">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mantovanip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantovanip&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+<h2 align="center">🛠️ Skills & Technologies</h2>
+
+<h3 align="center">Frontend</h3>
+<div align="center">
+  <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Vite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
+  <img alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+</div>
+
+<h3 align="center">Backend & Database</h3>
+<div align="center">
+  <img alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Supabase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
+  <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
+<h3 align="center">DevOps & Deployment</h3>
+<div align="center">
+  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="GitHub Actions" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
+  <img alt="Vercel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
+</div>
+
+<h3 align="center">Ferramentas & Integrações</h3>
+<div align="center">
+  <img alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Google" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+</div>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/mantovanip/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  Desenvolvimento de sites institucionais, landing pages e aplicações web, integração com APIs, CRM, autenticação, bancos de dados, SEO local, Google Maps, WhatsApp e publicação contínua via GitHub.
 </p>
 
+<h2 align="center">📱</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mantovanip/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
