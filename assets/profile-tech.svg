@@ -1,0 +1,28 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#070B12"/><stop offset="0.5" stop-color="#0D1420"/><stop offset="1" stop-color="#05070B"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#5EE7DF" stop-opacity="0"/><stop offset="0.5" stop-color="#5EE7DF"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#A8B3C7" stroke-opacity=".07"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+<path d="M0 244C180 210 250 270 430 232C610 194 700 244 850 205C990 169 1080 204 1200 174" stroke="url(#line)" stroke-width="2"/>
+<circle cx="1020" cy="78" r="90" fill="#5EE7DF" fill-opacity=".05"/>
+<circle cx="1080" cy="78" r="48" fill="#8B5CF6" fill-opacity=".05"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+  <text x="72" y="78" fill="#6EE7F2" font-size="18">&gt; developer.profile</text>
+  <text x="72" y="132" fill="#F8FAFC" font-size="42" font-weight="700">PAULO MANTOVANI</text>
+  <text x="74" y="166" fill="#94A3B8" font-size="18">WEB · FULL STACK · SAAS · DIGITAL PRODUCTS</text>
+  <text x="74" y="216" fill="#64748B" font-size="14">building ideas into interfaces, systems and products</text>
+  <text x="1010" y="240" fill="#5EE7DF" font-size="13" text-anchor="middle">STATUS: BUILDING</text>
+</g>
+<g fill="#5EE7DF">
+  <circle cx="72" cy="245" r="3"/><circle cx="90" cy="245" r="3"/><circle cx="108" cy="245" r="3"/>
+</g>
+</svg>
