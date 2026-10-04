@@ -56,9 +56,7 @@ Também funciona como laboratório para testar interfaces, templates, produtos e
 
 ### 🌐 Projetos para empresas
 
-Projetos web desenvolvidos para negócios locais, incluindo:
-
-**Assis Ferragens · Advalef Borges · Vih Borba · Kbella Flor**
+Projetos web desenvolvidos para negócios locais.
 
 Da estrutura visual ao código, publicação e presença digital.
 
